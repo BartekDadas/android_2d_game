@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">dev21maker_s_application15</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_2_45">2:45</string>
+  <string name="lbl_fire">FIRE</string>
+  <string name="lbl_score">SCORE</string>
+  <string name="lbl_level">LEVEL</string>
+  <string name="lbl_5">5</string>
+  <string name="lbl_12_450">12,450</string>
+  <string name="lbl_jump">JUMP</string>
+  <string name="lbl_230">230</string>
+</resources>
